@@ -1,5 +1,5 @@
 body{
-	background-color: #f7f8fc;
+	background-image: url("../img/lace.png");
 }
 
 .Header{
@@ -13,3 +13,22 @@ body{
 	font-family: Georgia;
 }
 
+.card-header{
+	color: pink;
+}
+
+h5{
+	font-family:Didot;
+	color:#b4b4b4
+}
+
+.heading {
+	text-align: center;
+	font-family: Didot;
+	font-size: 100PX;
+	color:#3535352e;
+}
+
+.Intro{
+	color:#b4b4b4
+}

@@ -1,0 +1,22 @@
+body{
+	background-image: url("../img/lace.png");
+}
+
+.jumbotron{
+	background-color:#efe9e900;
+}	
+
+.display4{
+	font-family: Didot;
+	font-size: 250PX;
+	color:#3535352e;
+}
+
+.styledButton {
+	color: pink;
+	background-color: white;
+}
+
+.lead{
+	font-style:italic;
+}
